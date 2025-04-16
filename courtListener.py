@@ -12,7 +12,7 @@ from rich.console import Console
 from rich.table import Table
 
 API_BASE = "https://www.courtlistener.com/api/rest/v4"
-API_TOKEN = "" # your CourtListener or Thompson Reuters API token here.
+API_TOKEN = "" # your CourtListener or Thomson Reuters API token here.
 
 HEADERS = {
     "User-Agent": "CourtListenerCLI/1.5 (Michael Mendy <craftykisses@gmail.com>)",
