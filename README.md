@@ -1,4 +1,4 @@
-# CourtListener (By Thompson Reuters) CLI Crawler 
+# CourtListener (By Thomson Reuters) CLI Crawler 
 
 Easy search CLI tool for Court Dockets, Cases, and more using the CourtListener API. 
 
